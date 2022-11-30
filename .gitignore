@@ -1,1 +1,5 @@
 AndroidTextRecognization-master/.idea/
+.idea/
+.gradle/
+app/build/
+local.properties
